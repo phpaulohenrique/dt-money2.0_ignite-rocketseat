@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "price": 14000,
+      "type": "income",
+      "category": "Venda",
+      "createdAt": "2023-04-04T11:19:37.062Z"
+    },
+    {
+      "id": 2,
+      "description": "Lanche",
+      "price": 30,
+      "type": "outcome",
+      "category": "Compra",
+      "createdAt": "2023-04-05T12:19:37.062Z"
+    },
+    {
+      "id": 3,
+      "description": "Intercambio",
+      "price": 21000,
+      "type": "outcome",
+      "category": "Viagem",
+      "createdAt": "2023-04-09T14:19:37.062Z"
+    },
+    {
+      "id": 4,
+      "description": "Desenvolvimento de site",
+      "price": 9000,
+      "type": "income",
+      "category": "Venda",
+      "createdAt": "2023-04-04T11:19:37.062Z"
+    },
+    {
+      "description": "salario mes 2",
+      "category": "salario",
+      "type": "income",
+      "price": 3000,
+      "createdAt": "2023-04-09T20:40:07.024Z",
+      "id": 5
+    },
+    {
+      "description": "pão",
+      "category": "alimentação",
+      "type": "outcome",
+      "price": 5,
+      "createdAt": "2023-04-09T21:28:31.447Z",
+      "id": 6
+    },
+    {
+      "description": "arroz",
+      "category": "alimentação",
+      "type": "outcome",
+      "price": 10,
+      "createdAt": "2023-04-09T21:30:31.533Z",
+      "id": 7
+    }
+  ]
+}
